@@ -44,9 +44,7 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@hcavid386)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_javid_hc/)
 </p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/CavidH/count.svg" />
-</p>
+
 <br />
 <br />
 
