@@ -2,9 +2,9 @@
   
 
 <div align=center>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=CavidH&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=CavidH&theme=dark&hide_border=true" />
-  <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CavidH&show_icons=true&theme=dark&layout=compact" alt="developer-metalhead" />  
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=CavidH&theme=merko&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=CavidH&theme=merko&hide_border=true" />
+  <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CavidH&show_icons=true&theme=merko&layout=compact" alt="developer-metalhead" />  
 
 </div>
  
@@ -50,5 +50,5 @@
 
 
 </p>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavidH&layout=dark)" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavidH&layout=Compact&theme=merko)" />
 
