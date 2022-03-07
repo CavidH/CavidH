@@ -50,5 +50,5 @@
 
 
 </p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CavidH&repo=github-readme-stats)](https://github.com/CavidH/FiorEllo)
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CavidH&repo=github-readme-stats)" />
 
