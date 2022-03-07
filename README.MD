@@ -50,5 +50,5 @@
 
 
 </p>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CavidH&repo=github-readme-stats)" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CavidH&layout=compact)" />
 
